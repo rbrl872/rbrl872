@@ -25,3 +25,4 @@ Fix typo in README
 Refactor core logic
 Add new utility script
 Update dependencies
+Improve error handling
