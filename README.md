@@ -19,3 +19,4 @@ Tweak margin and padding
 Update configuration
 Update configuration
 Update API endpoint
+Change theme color
