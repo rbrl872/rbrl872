@@ -20,3 +20,4 @@ Update configuration
 Update configuration
 Update API endpoint
 Change theme color
+Improve performance
