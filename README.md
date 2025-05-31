@@ -23,3 +23,4 @@ Change theme color
 Improve performance
 Fix typo in README
 Refactor core logic
+Add new utility script
