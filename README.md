@@ -28,3 +28,4 @@ Update dependencies
 Improve error handling
 Refactor core logic
 Refactor core logic
+Add documentation
